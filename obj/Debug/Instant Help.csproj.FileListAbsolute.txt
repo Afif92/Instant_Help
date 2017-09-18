@@ -1,0 +1,72 @@
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\Instant Help.exe.config
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant Help.csprojResolveAssemblyReference.cache
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.FireIndex.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Login_Page.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Index.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Medical.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Police.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Properties.Resources.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Register.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant Help.csproj.GenerateResource.Cache
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\Instant Help.exe
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\Instant Help.pdb
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant Help.exe
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant Help.pdb
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\InstantHelpDatabase.mdf
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\InstantHelpDatabase_log.ldf
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Voice_Mail.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\NAudio.dll
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Mail.resources
+D:\Visual Stdio RSL\C #\Instant Help\Instant Help\obj\Debug\Instant_Help.EditDatabase.resources
+F:\Instant Help\Instant Help\bin\Debug\Instant Help.exe.config
+F:\Instant Help\Instant Help\obj\Debug\Instant Help.exe
+F:\Instant Help\Instant Help\obj\Debug\Instant Help.pdb
+F:\Instant Help\Instant Help\bin\Debug\Instant Help.exe
+F:\Instant Help\Instant Help\bin\Debug\Instant Help.pdb
+F:\Instant Help\Instant Help\bin\Debug\Newtonsoft.Json.dll
+F:\Instant Help\Instant Help\bin\Debug\Newtonsoft.Json.xml
+F:\Instant Help\Instant Help\obj\Debug\Instant Help.csprojResolveAssemblyReference.cache
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.EditDatabase.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.FireIndex.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Login_Page.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Index.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Mail.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Voice_Mail.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Medical.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Police.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Properties.Resources.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant_Help.Register.resources
+F:\Instant Help\Instant Help\obj\Debug\Instant Help.csproj.GenerateResource.Cache
+F:\Instant Help\Instant Help\bin\Debug\InstantHelpDatabase.mdf
+F:\Instant Help\Instant Help\bin\Debug\InstantHelpDatabase_log.ldf
+H:\Instant Help\Instant Help\bin\Debug\Instant Help.exe.config
+H:\Instant Help\Instant Help\obj\Debug\Instant Help.exe
+H:\Instant Help\Instant Help\obj\Debug\Instant Help.pdb
+H:\Instant Help\Instant Help\obj\Debug\Instant Help.csprojResolveAssemblyReference.cache
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.EditDatabase.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.FireIndex.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Login_Page.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Index.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Mail.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Voice_Mail.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Medical.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Police.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Properties.Resources.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant_Help.Register.resources
+H:\Instant Help\Instant Help\obj\Debug\Instant Help.csproj.GenerateResource.Cache
+D:\Instant Help\Instant Help\bin\Debug\Instant Help.exe.config
+D:\Instant Help\Instant Help\obj\Debug\Instant Help.exe
+D:\Instant Help\Instant Help\obj\Debug\Instant Help.csprojResolveAssemblyReference.cache
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.EditDatabase.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.FireIndex.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Login_Page.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Index.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Mail.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Send_Voice_Mail.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Medical.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Police.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Properties.Resources.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant_Help.Register.resources
+D:\Instant Help\Instant Help\obj\Debug\Instant Help.csproj.GenerateResource.Cache
